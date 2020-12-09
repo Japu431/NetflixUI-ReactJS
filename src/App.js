@@ -69,6 +69,12 @@ export default () => {
         ))}
 
       </section>
+
+      <footer>
+          Github: Yusuke-kun <br/>
+          Direitos de Images para Netflix <br/>
+          Dados pegtos do site Themoviedb.org
+      </footer>
     </div>
   );
 };
